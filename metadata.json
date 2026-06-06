@@ -1,0 +1,6 @@
+{
+  "name": "الساعة",
+  "description": "تطبيق ساعة ذكي بنمط هادف يدعم الساعة العالمية والمنبه وساعة الإيقاف والعداد التنازلي مع واجهة عربية جذابة.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
